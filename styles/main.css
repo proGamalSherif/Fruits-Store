@@ -238,7 +238,7 @@
     width: 98%;
     margin-left: 1%;
     min-height: 85vh;
-    background-image: url('/images/tasty.png');
+    background-image: url('../images/tasty.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -345,7 +345,7 @@
     margin-right: 10px;
 }
 #pg-footer-card:first-child{
-    margin-left: 30%;
+    margin-left: 28%;
 }
 #pg-footer-card:last-child{
     width: 15%;
